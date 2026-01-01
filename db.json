@@ -1,0 +1,261 @@
+{
+    "managers": [
+        {
+            "id": "1",
+            "name": "RISHI GOUR",
+            "image": "/images/about-manag1.jpg",
+            "description": "Chief Marketing Officer"
+        },
+        {
+            "id": 2,
+            "name": "KUNAL KUMAR",
+            "image": "/images/about-manag4.jpg",
+            "description": "Head – Production"
+        },
+        {
+            "id": 3,
+            "name": "TINA SETHI",
+            "image": "/public/images/about-manag2.jpg",
+            "description": "Chief Marketing Officer"
+        },
+        {
+            "id": 4,
+            "name": "SUNDRANI",
+            "image": "/images/about-manag3.jpg",
+            "description": "Chief Human Resources Officer"
+        },
+        {
+            "id": 5,
+            "name": "ABHISHEK",
+            "image": "/images/about-manag6.jpg",
+            "description": "Chief Financial Officer"
+        },
+        {
+            "id": 6,
+            "name": "SIMANTINI",
+            "image": "/images/about-manag5.jpg",
+            "description": "General Counsel and Company Secretary"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "Brownie",
+            "description": "Rich, fudgy chocolate brownie with a soft center.",
+            "price": 80,
+            "image": "/images/product-img-001.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Breads",
+            "description": "Freshly baked artisan breads made with premium flour.",
+            "price": 50,
+            "image": "/images/product-img01.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Croissants & Danishes",
+            "description": "Buttery croissants and flaky danishes baked to perfection.",
+            "price": 90,
+            "image": "/images/product-img02.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pastries",
+            "description": "Cream-filled pastries topped with rich flavors.",
+            "price": 110,
+            "image": "/images/product-img03.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Beverages",
+            "description": "Hot and cold beverages to perfectly complement your snacks.",
+            "price": 60,
+            "image": "/images/product-img04.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Sandwiches & Savouries",
+            "description": "Delicious savory snacks and freshly prepared sandwiches.",
+            "price": 120,
+            "image": "/images/product-img05.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Biscuits, Cookies & Crackers",
+            "description": "Crunchy biscuits, cookies, and crackers for every occasion.",
+            "price": 70,
+            "image": "/images/product-img06.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Cakes",
+            "description": "Soft and flavorful cakes made for celebrations and treats.",
+            "price": 450,
+            "image": "/images/product-img07.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Combos",
+            "description": "Special combo packs offering great taste and value.",
+            "price": 250,
+            "image": "/images/product-img08.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Desserts & Cupcakes",
+            "description": "Sweet desserts and cupcakes topped with creamy frostings.",
+            "price": 95,
+            "image": "/images/product-img09.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Tea Cakes",
+            "description": "Light and moist tea cakes perfect with your evening tea.",
+            "price": 180,
+            "image": "/images/product-img10.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Gifting",
+            "description": "Beautifully packed bakery items perfect for gifting.",
+            "price": 350,
+            "image": "/images/product-img11.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Collectibles",
+            "description": "Limited edition bakery collectibles and special treats.",
+            "price": 300,
+            "image": "/images/product-img12.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Strawberry Specials",
+            "description": "Seasonal strawberry-based desserts and bakery items.",
+            "price": 220,
+            "image": "/images/product-img13.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Christmas Specials",
+            "description": "Festive baked goodies specially made for Christmas.",
+            "price": 400,
+            "image": "/images/product-img14.jpg"
+        }
+    ],
+    "christmas": [
+        {
+            "id": 1,
+            "name": "Classic Christmas Fruit Cake",
+            "price": 1200,
+            "offer": "20% OFF",
+            "image":"/images/christmass-img1.jpg",
+            "final_price": 960
+        },
+        {
+            "id": 2,
+            "name": "Plum Cake",
+            "price": 900,
+            "offer": "Buy 1 Get 1 at 50% OFF",
+             "image":"/images/christmass-img02.jpg",
+            "final_price": 675
+        },
+        {
+            "id": 3,
+            "name": "Chocolate Christmas Cake",
+            "price": 1100,
+            "offer": "Flat ₹200 OFF",
+             "image":"/images/christmass-img03.jpg",
+            "final_price": 900
+        },
+        {
+            "id": 4,
+            "name": "Red Velvet Christmas Cake",
+            "price": 1400,
+            "offer": "15% OFF",
+             "image":"/images/christmass-img04.jpg",
+            "final_price": 1190
+        },
+        {
+            "id": 5,
+            "name": "White Forest Christmas Cake",
+            "price": 1300,
+            "offer": "Free Christmas Cookies",
+             "image":"/images/christmass-img05.jpg",
+            "final_price": 1300
+        },
+        {
+            "id": 6,
+            "name": "Black Forest Christmas Cake",
+            "price": 1000,
+            "offer": "10% OFF",
+             "image":"/images/christmass-img06.jpg",
+            "final_price": 900
+        },
+        {
+            "id": 7,
+            "name": "Butterscotch Christmas Cake",
+            "price": 950,
+            "offer": "Flat ₹150 OFF",
+             "image":"/images/christmass-img07.jpg",
+            "final_price": 800
+        },
+        {
+            "id": 8,
+            "name": "Vanilla Christmas Snow Cake",
+            "price": 850,
+            "offer": "Buy 2 Get 1 Free",
+             "image":"/images/christmass-img08.jpg",
+            "final_price": 850
+        },
+        {
+            "id": 9,
+            "name": "Carrot Walnut Christmas Cake",
+            "price": 1250,
+            "offer": "12% OFF",
+             "image":"/images/christmass-img09.jpg",
+            "final_price": 1100
+        },
+        {
+            "id": 10,
+            "name": "Coffee Mocha Christmas Cake",
+            "price": 1350,
+            "offer": "Free Hot Chocolate",
+             "image":"/images/christmass-img10.jpg",
+            "final_price": 1350
+        },
+        {
+            "id": 11,
+            "name": "Dry Fruit Delight Cake",
+            "price": 1600,
+            "offer": "20% OFF",
+            "image":"/images/christmass-img11.jpg",
+            "final_price": 1280
+        },
+        {
+            "id": 12,
+            "name": "Rum Soaked Christmas Cake",
+            "price": 1500,
+            "offer": "Flat ₹300 OFF",
+            "image":"/images/christmass-img12.jpg",
+            "final_price": 1200
+        },
+        {
+            "id": 13,
+            "name": "Orange Zest Christmas Cake",
+            "price": 1150,
+            "offer": "10% OFF",
+            "image":"/images/christmass-img13.jpg",
+            "final_price": 1035
+        },
+        {
+            "id": 14,
+            "name": "Chocolate Truffle Christmas Cake",
+            "price": 1450,
+            "offer": "Free Cake Topper",
+            "image":"/images/christmass-img14.jpg",
+            "final_price": 1450
+        }
+    ]
+}
